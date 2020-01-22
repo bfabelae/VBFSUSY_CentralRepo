@@ -2,10 +2,6 @@
                 Run
 ####################################
 
-///---- 2016 data ---- ///
-/// DataHistos data_pileup_2016_69p2.root
-/// MCHistos mc_pileup_Summer16.root
-
 CalculatePUSystematics false
 DataHistos PileUpReweighting2017.root
 MCHistos mc2017_pileup_Dec2018reReco.root
